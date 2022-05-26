@@ -1,0 +1,26 @@
+nav .menu-Icon{
+    display: block;
+    float:left;
+  }
+  nav ul{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #0b0909cf;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 60%;
+    transform:  translateX(-100%);
+    transition: 0.6s;
+
+  }
+  .nav ul.activo{
+    transform: translateX(0%);
+  }
+  
+  
+  nav ul li a{
+    color: white;
+    font-size: 24px;
+  }
