@@ -1,0 +1,1294 @@
+
+2022-01-18  7:18:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-01-18  7:18:06 0 [Note] InnoDB: Uses event mutexes
+2022-01-18  7:18:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-01-18  7:18:06 0 [Note] InnoDB: Number of pools: 1
+2022-01-18  7:18:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-01-18  7:18:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-01-18  7:18:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-01-18  7:18:06 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1791378
+2022-01-18  7:18:07 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-01-18  7:18:07 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-01-18  7:18:07 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-01-18  7:18:07 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-01-18  7:18:07 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-01-18  7:18:07 0 [Note] InnoDB: Waiting for purge to start
+2022-01-18  7:18:07 0 [Note] InnoDB: 10.3.16 started; log sequence number 1791387; transaction id 163
+2022-01-18  7:18:07 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-01-18  7:18:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-01-18  7:18:07 0 [Note] Server socket created on IP: '::'.
+2022-01-18  7:32:01 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-01-18  7:32:01 0 [Note] InnoDB: Uses event mutexes
+2022-01-18  7:32:01 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-01-18  7:32:01 0 [Note] InnoDB: Number of pools: 1
+2022-01-18  7:32:01 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-01-18  7:32:01 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-01-18  7:32:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-01-18  7:32:01 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1824782
+2022-01-18  7:32:02 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-01-18  7:32:02 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-01-18  7:32:02 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-01-18  7:32:02 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-01-18  7:32:02 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-01-18  7:32:02 0 [Note] InnoDB: Waiting for purge to start
+2022-01-18  7:32:02 0 [Note] InnoDB: 10.3.16 started; log sequence number 1824791; transaction id 226
+2022-01-18  7:32:02 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-01-18  7:32:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-01-18  7:32:02 0 [Note] Server socket created on IP: '::'.
+2022-02-02  3:52:38 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-02-02  3:52:38 0 [Note] InnoDB: Uses event mutexes
+2022-02-02  3:52:38 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-02-02  3:52:38 0 [Note] InnoDB: Number of pools: 1
+2022-02-02  3:52:38 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-02-02  3:52:38 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-02-02  3:52:38 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-02-02  3:52:38 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1977571
+2022-02-02  3:52:38 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-02-02  3:52:38 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-02-02  3:52:38 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-02-02  3:52:38 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-02-02  3:52:38 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-02-02  3:52:38 0 [Note] InnoDB: Waiting for purge to start
+2022-02-02  3:52:39 0 [Note] InnoDB: 10.3.16 started; log sequence number 1977580; transaction id 411
+2022-02-02  3:52:39 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-02-02  3:52:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-02-02  3:52:39 0 [Note] InnoDB: Buffer pool(s) load completed at 220202  3:52:39
+2022-02-02  3:52:39 0 [Note] Server socket created on IP: '::'.
+2022-02-02  3:52:40 0 [Note] Reading of all Master_info entries succeeded
+2022-02-02  3:52:40 0 [Note] Added new Master_info '' to hash table
+2022-02-02  3:52:40 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.3.16-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-02-02  3:53:02 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-02-02  3:53:02 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-02-02  3:53:02 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-02-02  3:53:02 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-02-02  3:53:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-02-02  3:53:02 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2022-02-02  3:53:02 0 [ERROR] Aborting
+
+2022-02-02  3:53:11 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-02-02  3:53:11 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2022-02-02  3:53:11 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2022-02-02  3:53:11 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2022-02-02  3:53:11 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-02-02  3:53:11 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2022-02-02  3:53:11 0 [ERROR] Aborting
+
+2022-02-02  3:53:59 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-02-02  3:53:59 0 [Note] InnoDB: Uses event mutexes
+2022-02-02  3:53:59 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-02-02  3:53:59 0 [Note] InnoDB: Number of pools: 1
+2022-02-02  3:53:59 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-02-02  3:53:59 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-02-02  3:53:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-02-02  3:53:59 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1977589
+2022-02-02  3:53:59 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-02-02  3:53:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-02-02  3:53:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-02-02  3:53:59 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-02-02  3:53:59 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-02-02  3:53:59 0 [Note] InnoDB: Waiting for purge to start
+2022-02-02  3:53:59 0 [Note] InnoDB: 10.3.16 started; log sequence number 1977598; transaction id 411
+2022-02-02  3:53:59 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-02-02  3:53:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-02-02  3:53:59 0 [Note] Server socket created on IP: '::'.
+2022-03-22 10:56:12 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-22 10:56:12 0 [Note] InnoDB: Uses event mutexes
+2022-03-22 10:56:12 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-22 10:56:12 0 [Note] InnoDB: Number of pools: 1
+2022-03-22 10:56:12 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-22 10:56:12 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-22 10:56:12 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-22 10:56:12 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1980100
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-22 10:56:13 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-22 10:56:13 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-22 10:56:13 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-22 10:56:13 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-22 10:56:13 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-22 10:56:13 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-22 10:56:13 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-22 10:56:13 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-22 10:56:14 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-22 10:56:14 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-22 10:56:14 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-22 10:56:14 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-22 10:56:14 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-22 10:56:14 0 [Note] InnoDB: Waiting for purge to start
+2022-03-22 10:56:14 0 [Note] InnoDB: 10.3.16 started; log sequence number 1980109; transaction id 447
+2022-03-22 10:56:14 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-22 10:56:14 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-22 10:56:14 0 [Note] Server socket created on IP: '::'.
+2022-03-23  7:07:31 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-23  7:07:31 0 [Note] InnoDB: Uses event mutexes
+2022-03-23  7:07:31 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-23  7:07:31 0 [Note] InnoDB: Number of pools: 1
+2022-03-23  7:07:31 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-23  7:07:31 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-23  7:07:31 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-23  7:07:31 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=4117789
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-23  7:07:32 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-23  7:07:32 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-23  7:07:32 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-23  7:07:32 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-23  7:07:32 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-23  7:07:32 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-23  7:07:32 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-23  7:07:32 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-23  7:07:32 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-23  7:07:32 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-23  7:07:32 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-23  7:07:32 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-23  7:07:32 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-23  7:07:32 0 [Note] InnoDB: Waiting for purge to start
+2022-03-23  7:07:32 0 [Note] InnoDB: 10.3.16 started; log sequence number 4117798; transaction id 1415
+2022-03-23  7:07:32 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-23  7:07:32 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-23  7:07:33 0 [Note] Server socket created on IP: '::'.
+2022-03-24 10:08:13 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-24 10:08:13 0 [Note] InnoDB: Uses event mutexes
+2022-03-24 10:08:13 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-24 10:08:13 0 [Note] InnoDB: Number of pools: 1
+2022-03-24 10:08:13 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-24 10:08:13 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-24 10:08:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-24 10:08:13 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=4215717
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-24 10:08:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-24 10:08:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-24 10:08:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-24 10:08:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-24 10:08:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-24 10:08:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-24 10:08:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-24 10:08:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-24 10:08:15 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-24 10:08:15 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-24 10:08:15 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-24 10:08:15 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-24 10:08:15 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-24 10:08:15 0 [Note] InnoDB: Waiting for purge to start
+2022-03-24 10:08:15 0 [Note] InnoDB: 10.3.16 started; log sequence number 4215726; transaction id 1500
+2022-03-24 10:08:15 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-24 10:08:15 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-24 10:08:15 0 [Note] Server socket created on IP: '::'.
+2022-03-25 12:30:16 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-25 12:30:16 0 [Note] InnoDB: Uses event mutexes
+2022-03-25 12:30:16 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-25 12:30:16 0 [Note] InnoDB: Number of pools: 1
+2022-03-25 12:30:16 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-25 12:30:16 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-25 12:30:16 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-25 12:30:16 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=6342390
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 12:30:16 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 12:30:16 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 12:30:16 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 12:30:16 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 12:30:16 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 12:30:16 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 12:30:16 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 12:30:16 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-25 12:30:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-25 12:30:17 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-25 12:30:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-25 12:30:17 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-25 12:30:17 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-25 12:30:17 0 [Note] InnoDB: Waiting for purge to start
+2022-03-25 12:30:17 0 [Note] InnoDB: 10.3.16 started; log sequence number 6342399; transaction id 2571
+2022-03-25 12:30:17 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-25 12:30:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-25 12:30:17 0 [Note] Server socket created on IP: '::'.
+2022-03-25 14:51:40 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-25 14:51:40 0 [Note] InnoDB: Uses event mutexes
+2022-03-25 14:51:40 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-25 14:51:40 0 [Note] InnoDB: Number of pools: 1
+2022-03-25 14:51:40 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-25 14:51:40 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-25 14:51:40 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-25 14:51:40 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=7718324
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:51:41 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:51:41 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:51:41 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:51:41 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:51:41 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:51:41 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:51:41 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:51:41 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-25 14:51:41 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-25 14:51:41 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-25 14:51:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-25 14:51:41 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-25 14:51:41 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-25 14:51:41 0 [Note] InnoDB: Waiting for purge to start
+2022-03-25 14:51:41 0 [Note] InnoDB: 10.3.16 started; log sequence number 7718333; transaction id 3122
+2022-03-25 14:51:41 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-25 14:51:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-25 14:51:41 0 [Note] Server socket created on IP: '::'.
+2022-03-25 14:52:57 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-25 14:52:57 0 [Note] InnoDB: Uses event mutexes
+2022-03-25 14:52:57 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-25 14:52:57 0 [Note] InnoDB: Number of pools: 1
+2022-03-25 14:52:57 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-25 14:52:57 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-25 14:52:57 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-25 14:52:57 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=7718672
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:52:59 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:52:59 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:52:59 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:52:59 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:52:59 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 14:52:59 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 14:52:59 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 14:52:59 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-25 14:52:59 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-25 14:52:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-25 14:52:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-25 14:52:59 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-25 14:52:59 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-25 14:52:59 0 [Note] InnoDB: Waiting for purge to start
+2022-03-25 14:52:59 0 [Note] InnoDB: 10.3.16 started; log sequence number 7718681; transaction id 3135
+2022-03-25 14:52:59 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-25 14:52:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-25 14:52:59 0 [Note] Server socket created on IP: '::'.
+2022-03-25 18:30:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-25 18:30:06 0 [Note] InnoDB: Uses event mutexes
+2022-03-25 18:30:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-25 18:30:06 0 [Note] InnoDB: Number of pools: 1
+2022-03-25 18:30:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-25 18:30:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-25 18:30:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-25 18:30:07 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=10027445
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:30:07 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:30:07 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:30:07 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:30:07 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:30:07 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:30:07 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:30:07 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:30:07 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-25 18:30:07 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-25 18:30:07 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-25 18:30:07 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-25 18:30:07 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-25 18:30:07 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-25 18:30:07 0 [Note] InnoDB: Waiting for purge to start
+2022-03-25 18:30:07 0 [Note] InnoDB: 10.3.16 started; log sequence number 10027454; transaction id 5510
+2022-03-25 18:30:07 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-25 18:30:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-25 18:30:07 0 [Note] Server socket created on IP: '::'.
+2022-03-25 18:31:18 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-25 18:31:18 0 [Note] InnoDB: Uses event mutexes
+2022-03-25 18:31:18 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-25 18:31:18 0 [Note] InnoDB: Number of pools: 1
+2022-03-25 18:31:18 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-25 18:31:18 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-25 18:31:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-25 18:31:18 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=10027793
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:31:18 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:31:18 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:31:18 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:31:18 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:31:18 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-25 18:31:18 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-25 18:31:18 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-25 18:31:18 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-25 18:31:18 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-25 18:31:18 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-25 18:31:18 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-25 18:31:18 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-25 18:31:18 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-25 18:31:18 0 [Note] InnoDB: Waiting for purge to start
+2022-03-25 18:31:18 0 [Note] InnoDB: 10.3.16 started; log sequence number 10027802; transaction id 5523
+2022-03-25 18:31:18 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-25 18:31:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-25 18:31:18 0 [Note] Server socket created on IP: '::'.
+2022-03-26  3:11:28 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-26  3:11:28 0 [Note] InnoDB: Uses event mutexes
+2022-03-26  3:11:28 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-26  3:11:28 0 [Note] InnoDB: Number of pools: 1
+2022-03-26  3:11:28 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-26  3:11:28 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-26  3:11:28 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-26  3:11:28 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=10050083
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  3:11:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  3:11:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  3:11:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  3:11:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  3:11:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  3:11:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  3:11:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  3:11:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-26  3:11:29 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-26  3:11:29 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-26  3:11:29 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-26  3:11:29 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-26  3:11:29 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-26  3:11:29 0 [Note] InnoDB: Waiting for purge to start
+2022-03-26  3:11:29 0 [Note] InnoDB: 10.3.16 started; log sequence number 10050092; transaction id 5565
+2022-03-26  3:11:29 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-26  3:11:29 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-26  3:11:29 0 [Note] Server socket created on IP: '::'.
+2022-03-26  6:06:19 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-26  6:06:19 0 [Note] InnoDB: Uses event mutexes
+2022-03-26  6:06:19 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-26  6:06:19 0 [Note] InnoDB: Number of pools: 1
+2022-03-26  6:06:19 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-26  6:06:19 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-26  6:06:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-26  6:06:19 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=10193503
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  6:06:20 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  6:06:20 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  6:06:20 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  6:06:20 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  6:06:20 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26  6:06:20 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26  6:06:20 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26  6:06:20 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-26  6:06:20 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-26  6:06:20 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-26  6:06:20 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-26  6:06:20 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-26  6:06:20 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-26  6:06:20 0 [Note] InnoDB: Waiting for purge to start
+2022-03-26  6:06:20 0 [Note] InnoDB: 10.3.16 started; log sequence number 10193512; transaction id 5756
+2022-03-26  6:06:20 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-26  6:06:20 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-26  6:06:20 0 [Note] Server socket created on IP: '::'.
+2022-03-26 12:33:47 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-26 12:33:47 0 [Note] InnoDB: Uses event mutexes
+2022-03-26 12:33:47 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-26 12:33:47 0 [Note] InnoDB: Number of pools: 1
+2022-03-26 12:33:47 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-26 12:33:47 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-26 12:33:47 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-26 12:33:47 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=18273423
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26 12:33:47 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26 12:33:47 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26 12:33:47 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26 12:33:47 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26 12:33:47 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-26 12:33:47 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-26 12:33:47 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-26 12:33:47 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-26 12:33:47 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-26 12:33:47 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-26 12:33:47 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-26 12:33:47 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-26 12:33:47 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-26 12:33:47 0 [Note] InnoDB: Waiting for purge to start
+2022-03-26 12:33:47 0 [Note] InnoDB: 10.3.16 started; log sequence number 18273432; transaction id 7160
+2022-03-26 12:33:47 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-26 12:33:47 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-26 12:33:47 0 [Note] Server socket created on IP: '::'.
+2022-03-27 14:47:13 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-27 14:47:14 0 [Note] InnoDB: Uses event mutexes
+2022-03-27 14:47:14 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-27 14:47:14 0 [Note] InnoDB: Number of pools: 1
+2022-03-27 14:47:14 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-27 14:47:14 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-27 14:47:14 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-27 14:47:14 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120079
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:47:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:47:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:47:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:47:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:47:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:47:14 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:47:14 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:47:14 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-27 14:47:14 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-27 14:47:14 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-27 14:47:14 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-27 14:47:14 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-27 14:47:14 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-27 14:47:14 0 [Note] InnoDB: Waiting for purge to start
+2022-03-27 14:47:15 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120088; transaction id 13359
+2022-03-27 14:47:15 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-27 14:47:15 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-27 14:47:15 0 [Note] Server socket created on IP: '::'.
+2022-03-27 14:48:02 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-27 14:48:02 0 [Note] InnoDB: Uses event mutexes
+2022-03-27 14:48:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-27 14:48:02 0 [Note] InnoDB: Number of pools: 1
+2022-03-27 14:48:02 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-27 14:48:02 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-27 14:48:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-27 14:48:02 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120097
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:48:03 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:48:03 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:48:03 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:48:03 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:48:03 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:48:03 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:48:03 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:48:03 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-27 14:48:03 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-27 14:48:03 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-27 14:48:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-27 14:48:03 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-27 14:48:03 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-27 14:48:03 0 [Note] InnoDB: Waiting for purge to start
+2022-03-27 14:48:03 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120106; transaction id 13359
+2022-03-27 14:48:03 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-27 14:48:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-27 14:48:03 0 [Note] Server socket created on IP: '::'.
+2022-03-27 14:49:18 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-27 14:49:18 0 [Note] InnoDB: Uses event mutexes
+2022-03-27 14:49:18 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-27 14:49:18 0 [Note] InnoDB: Number of pools: 1
+2022-03-27 14:49:18 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-27 14:49:18 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-27 14:49:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-27 14:49:18 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120115
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:49:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:49:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:49:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:49:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:49:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 14:49:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 14:49:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 14:49:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-27 14:49:19 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-27 14:49:19 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-27 14:49:19 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-27 14:49:19 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-27 14:49:19 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-27 14:49:19 0 [Note] InnoDB: Waiting for purge to start
+2022-03-27 14:49:19 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120124; transaction id 13359
+2022-03-27 14:49:19 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-27 14:49:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-27 14:49:19 0 [Note] Server socket created on IP: '::'.
+2022-03-27 15:24:11 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-27 15:24:11 0 [Note] InnoDB: Uses event mutexes
+2022-03-27 15:24:11 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-27 15:24:11 0 [Note] InnoDB: Number of pools: 1
+2022-03-27 15:24:11 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-27 15:24:11 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-27 15:24:11 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-27 15:24:11 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120133
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 15:24:11 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 15:24:11 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 15:24:11 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 15:24:11 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 15:24:11 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-27 15:24:11 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-27 15:24:11 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-27 15:24:11 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-27 15:24:11 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-27 15:24:11 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-27 15:24:11 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-27 15:24:11 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-27 15:24:11 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-27 15:24:11 0 [Note] InnoDB: Waiting for purge to start
+2022-03-27 15:24:11 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120142; transaction id 13359
+2022-03-27 15:24:11 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-27 15:24:11 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-27 15:24:11 0 [Note] Server socket created on IP: '::'.
+2022-03-28  7:46:19 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-28  7:46:19 0 [Note] InnoDB: Uses event mutexes
+2022-03-28  7:46:19 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-28  7:46:19 0 [Note] InnoDB: Number of pools: 1
+2022-03-28  7:46:19 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-28  7:46:19 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-28  7:46:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-28  7:46:19 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120151
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  7:46:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  7:46:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  7:46:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  7:46:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  7:46:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  7:46:19 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  7:46:19 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  7:46:19 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-28  7:46:20 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-28  7:46:20 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-28  7:46:20 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-28  7:46:20 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-28  7:46:20 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-28  7:46:20 0 [Note] InnoDB: Waiting for purge to start
+2022-03-28  7:46:20 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120160; transaction id 13359
+2022-03-28  7:46:20 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-28  7:46:20 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-28  7:46:20 0 [Note] Server socket created on IP: '::'.
+2022-03-28  8:09:05 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-28  8:09:05 0 [Note] InnoDB: Uses event mutexes
+2022-03-28  8:09:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-28  8:09:05 0 [Note] InnoDB: Number of pools: 1
+2022-03-28  8:09:05 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-28  8:09:05 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-28  8:09:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-28  8:09:05 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120169
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:09:05 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:09:05 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:09:05 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:09:05 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:09:05 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:09:05 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:09:05 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:09:05 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-28  8:09:06 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-28  8:09:06 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-28  8:09:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-28  8:09:06 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-28  8:09:06 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-28  8:09:06 0 [Note] InnoDB: Waiting for purge to start
+2022-03-28  8:09:06 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120178; transaction id 13359
+2022-03-28  8:09:06 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-28  8:09:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-28  8:09:06 0 [Note] Server socket created on IP: '::'.
+2022-03-28  8:18:57 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-28  8:18:57 0 [Note] InnoDB: Uses event mutexes
+2022-03-28  8:18:57 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-28  8:18:57 0 [Note] InnoDB: Number of pools: 1
+2022-03-28  8:18:57 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-28  8:18:57 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-28  8:18:57 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-28  8:18:57 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120187
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:18:57 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:18:57 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:18:57 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:18:57 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:18:57 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:18:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:18:57 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:18:57 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-28  8:18:57 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-28  8:18:57 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-28  8:18:57 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-28  8:18:57 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-28  8:18:57 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-28  8:18:57 0 [Note] InnoDB: Waiting for purge to start
+2022-03-28  8:18:57 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120196; transaction id 13359
+2022-03-28  8:18:57 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-28  8:18:57 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-28  8:18:57 0 [Note] Server socket created on IP: '::'.
+2022-03-28  8:20:36 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-28  8:20:36 0 [Note] InnoDB: Uses event mutexes
+2022-03-28  8:20:36 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-28  8:20:36 0 [Note] InnoDB: Number of pools: 1
+2022-03-28  8:20:36 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-28  8:20:36 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-28  8:20:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-28  8:20:36 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120205
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:20:37 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:20:37 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:20:37 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:20:37 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:20:37 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:20:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:20:37 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:20:37 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-28  8:20:37 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-28  8:20:37 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-28  8:20:37 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-28  8:20:37 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-28  8:20:37 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-28  8:20:37 0 [Note] InnoDB: Waiting for purge to start
+2022-03-28  8:20:37 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120214; transaction id 13359
+2022-03-28  8:20:37 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-28  8:20:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-28  8:20:37 0 [Note] Server socket created on IP: '::'.
+2022-03-28  8:25:28 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-03-28  8:25:28 0 [Note] InnoDB: Uses event mutexes
+2022-03-28  8:25:28 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-03-28  8:25:28 0 [Note] InnoDB: Number of pools: 1
+2022-03-28  8:25:28 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-03-28  8:25:28 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-03-28  8:25:28 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-03-28  8:25:28 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=22120223
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\aniversario.ibd' OS error: 71
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`aniversario``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:25:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`aniversario` because it could not be opened.
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\banner.ibd' OS error: 71
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`banner``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:25:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`banner` because it could not be opened.
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\multimedia.ibd' OS error: 71
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`multimedia``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:25:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`multimedia` because it could not be opened.
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\noticias.ibd' OS error: 71
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`noticias``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:25:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`noticias` because it could not be opened.
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\projectos.ibd' OS error: 71
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`projectos``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:25:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`projectos` because it could not be opened.
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\clube_ferroviario\usuarios.ibd' OS error: 71
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2022-03-28  8:25:29 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2022-03-28  8:25:29 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``clube_ferroviario`.`usuarios``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2022-03-28  8:25:29 0 [Warning] InnoDB: Ignoring tablespace for `clube_ferroviario`.`usuarios` because it could not be opened.
+2022-03-28  8:25:29 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-03-28  8:25:29 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-03-28  8:25:29 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-03-28  8:25:29 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-03-28  8:25:29 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2022-03-28  8:25:29 0 [Note] InnoDB: Waiting for purge to start
+2022-03-28  8:25:29 0 [Note] InnoDB: 10.3.16 started; log sequence number 22120232; transaction id 13359
+2022-03-28  8:25:29 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2022-03-28  8:25:29 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-03-28  8:25:29 0 [Note] Server socket created on IP: '::'.
